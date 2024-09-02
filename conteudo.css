@@ -1,40 +1,47 @@
-.conteudo{
+.conteudo {
   z-index: 1;
   display: flex;
   margin-left: 350px;
   margin-top: 50px;
 }
-.sobre{
+
+.sobre {
   display: flex;
   flex-direction: column;
   margin-top: 0;
   text-align: justify;
 }
-.coluna{
+
+.coluna {
   display: flex;
   align-items: baseline;
 }
-.coluna-1{
-  margin-right: 100px; 
+
+.coluna-1 {
+  margin-right: 100px;
 }
-.no-wrap{
+
+.no-wrap {
   white-space: nowrap;
 }
-.educação{
+
+.educação {
   display: flex;
   margin-bottom: 15px;
   align-items: baseline;
 }
-.educação{
+
+.educação {
   text-align: justify;
 }
-.educação1{
+
+.educação1 {
   margin-right: 30px;
   font-weight: bold;
   font-size: 15px;
 
 }
-.coluna-2{
+
+.coluna-2 {
   text-align: justify;
 }
-
